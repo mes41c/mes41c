@@ -37,12 +37,15 @@ TryHackMe platformunda tamamladığım odalar, problem çözme ve siber güvenli
 
 | Kategori | Oda Adı | Öğrenilen Beceriler |
 | :--- | :--- | :--- |
-| **Linux** | `cat linux.txt` (Linux Fundamentals) | Bash, Dosya Sistemi, İzin Yönetimi |
+| **Linux** | [`cat linux.txt` (Linux Fundamentals)](https://github.com/mes41c/TryHackMe-Writeups/tree/main/Linux-Fundamentals) | Bash, Dosya Sistemi, İzin Yönetimi |
 
 <details>
 <summary>➡️ Tüm TryHackMe çözümlerim ve detaylı analizlerim için tıklayın.</summary>
 
-**Bu bölüm, yakında oluşturacağımız `TryHackMe-Writeups` repozitörüne link verecektir. Şimdilik bir yer tutucu olarak duruyor.**
+Aşağıda, tamamladığım ve detaylı çözüm raporunu (write-up) yazdığım odaların bir listesini bulabilirsiniz. Repozitörün tamamına [**buradan**](https://github.com/mes41c/TryHackMe-Writeups) ulaşabilirsiniz.
+
+* **[Linux Temelleri - Bölüm 1](https://github.com/mes41c/TryHackMe-Writeups/tree/main/Linux-Fundamentals)**
+* *(Yeni write-up'lar eklendikçe bu liste güncellenecektir.)*
 
 </details>
 
