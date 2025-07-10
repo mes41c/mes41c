@@ -4,19 +4,19 @@
   <img src="https://raw.githubusercontent.com/mes41c/mes41c/main/cybersecurity_banner.png" alt="Cyber Security Banner">
   </p>
 
-Siber Güvenlik Analisti ve Operatörü adayıyım. Misyonum, siber güvenlik alanında edindiğim teknik bilgi ve pratik tecrübeyi kullanarak Türkiye'nin dijital varlıklarının ve kritik altyapılarının korunmasına aktif olarak katkı sağlamaktır. Sürekli öğrenmeyi ve kendimi geliştirmeyi bir ilke olarak benimsiyorum.
+Siber Güvenlik Analisti ve Operatörü adayıyım. Misyonum, siber güvenlik alanında edindiğim teknik bilgi ve pratik tecrübeyi kullanarak Türkiye'nin dijital varlıklarının ve kritik altyapılarının korunmasına aktif olarak katkı sağlamaktır. Sürekli öğrenmeyi ve kendimi geliştirmmeyi bir ilke olarak benimsiyorum.
 
 * 🔭 Şu anda **Atıl Samancıoğlu'nun Etik Hacker Olma Kursu**'ndaki ofansif güvenlik tekniklerini (ağ tarama, zafiyet analizi vb.) laboratuvar ortamlarında uygulamaya odaklandım.
 * 🌱 Bir sonraki hedefim, **Python'u siber güvenlikte daha etkin kullanmak** için "Python: Sıfırdan İleri Seviyeye - Etik Hacker Örnekleriyle" kursuna başlamak.
-* 📫 Bana ulaşın: **[LinkedIn](https://www.linkedin.com/in/mes-41c)** | **[E-posta](emirsakin4@gmail.com)** ---
+* 📫 Bana ulaşın: **[LinkedIn](https://www.linkedin.com/in/mes-41c)** | **[E-posta](mailto:emirsakin4@gmail.com)**
 
-## 🛠️ Teknolojiler ve Yetkinlikler
+--- ## 🛠️ Teknolojiler ve Yetkinlikler
 
-| Kategori                | Araçlar ve Teknolojiler                                                                                                                                                                                                                                                                  |
-| :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programlama & Web** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)                                  |
-| **Güvenlik Konseptleri** | Ağ Güvenliği Temelleri, Sızma Testi Metodolojileri, Zafiyet Analizi, OWASP Top 10                                                                                                                                                                                                          |
-| **İşletim Sistemleri** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows)                                                                                                              |
+| Kategori | Araçlar ve Teknolojiler |
+| :--- | :--- |
+| **Programlama & Web** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) |
+| **Güvenlik Konseptleri** | Ağ Güvenliği Temelleri, Sızma Testi Metodolojileri, Zafiyet Analizi, OWASP Top 10 |
+| **İşletim Sistemleri** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows) |
 
 ---
 
@@ -24,22 +24,20 @@ Siber Güvenlik Analisti ve Operatörü adayıyım. Misyonum, siber güvenlik al
 
 *Teorik bilgiyi pratiğe döktüğüm yer. Her bir proje, öğrendiğim bir konseptin somut kanıtıdır.*
 
-| Proje                                                                     | Açıklama                                                                                                                                                               | Teknoloji           |
-| :------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
-| 🐍 **[Kuran Uygulaması](https://github.com/mes41c/kuranuygulamasi)** | Python ve arayüz kütüphaneleri kullanılarak geliştirilmiş bir masaüstü uygulaması. Bu proje, yapay zeka(GEMINI) yardımıyla ve benim proje fikirlerimle geliştirilmiştir.                | `Python`  `Kivy`    |
-| 🤖 **[Siber Tercih Robotu](https://github.com/mes41c/siber-tercih-robotu)** | Siber güvenlik alanında kariyer hedefleyen öğrencilere yol göstermek amacıyla tasarlanmış bir web tabanlı tercih robotu. Bu proje, yapay zeka(GEMINI) yardımıyla ve benim proje fikirlerimle geliştirilmiştir.                                                | `HTML` `CSS` `JS`   |
-| 📅 **[Yapılacaklar Listesi](https://github.com/mes41c/yapilacaklar-listesi-todolist)** | Temel web teknolojileri kullanılarak oluşturulmuş, kullanıcı etkileşimli bir yapılacaklar listesi uygulaması. Bu proje, yapay zeka(GEMINI) yardımıyla ve benim proje fikirlerimle geliştirilmiştir.                                                   | `HTML` `CSS` `JS`   |
-| 🗺️ **[Cyber Security Roadmap](https://github.com/mes41c/cyber-security-roadmap)** | Siber güvenlik alanına yeni başlayanlar için kapsamlı bir yol haritası ve kaynak listesi. Topluluğa katkı sağlama ve bilgiyi organize etme amacını taşır. Bu proje, yapay zeka(GEMINI) yardımıyla ve benim proje fikirlerimle geliştirilmiştir.              | `HTML` `CSS` `JS`  |
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| 🐍 **[Kuran Uygulaması](https://github.com/mes41c/kuranuygulamasi)** | Python ve Kivy kütüphanesi kullanılarak geliştirilmiş bir masaüstü uygulaması. Bu proje, yapay zeka (Gemini) yardımıyla ve benim proje fikirlerimle geliştirilmiştir. | `Python` `Kivy` |
+| 🤖 **[Siber Tercih Robotu](https://github.com/mes41c/siber-tercih-robotu)** | Siber güvenlik alanında kariyer hedefleyen öğrencilere yol göstermek amacıyla tasarlanmış bir web tabanlı tercih robotu. | `HTML` `CSS` `JS` |
+| 📅 **[Yapılacaklar Listesi](https://github.com/mes41c/yapilacaklar-listesi-todolist)** | Temel web teknolojileri kullanılarak oluşturulmuş, kullanıcı etkileşimli bir yapılacaklar listesi uygulaması. | `HTML` `CSS` `JS` |
+| 🗺️ **[Cyber Security Roadmap](https://github.com/mes41c/cyber-security-roadmap)** | Siber güvenlik alanına yeni başlayanlar için kapsamlı bir yol haritası ve kaynak listesi. Topluluğa katkı sağlama ve bilgiyi organize etme amacını taşır. | `HTML` `CSS` `JS` |
 
 ### 🧠 TryHackMe - Uygulamalı Öğrenme Laboratuvarım
 
 TryHackMe platformunda tamamladığım odalar, problem çözme ve siber güvenlik araçlarını kullanma becerimi gösterir. Detaylı çözümler (write-up'lar) için ilgili repozitörü ziyaret edebilirsiniz.
 
-**Öne Çıkan Tamamlanmış Odalar:**
-
-| Kategori           | Oda Adı                              | Öğrenilen Beceriler                    |
-| :----------------- | :----------------------------------- | :------------------------------------- |
-| **Linux** | `cat linux.txt` (Linux Fundamentals) | Bash, Dosya Sistemi, İzin Yönetimi      |
+| Kategori | Oda Adı | Öğrenilen Beceriler |
+| :--- | :--- | :--- |
+| **Linux** | `cat linux.txt` (Linux Fundamentals) | Bash, Dosya Sistemi, İzin Yönetimi |
 
 <details>
 <summary>➡️ Tüm TryHackMe çözümlerim ve detaylı analizlerim için tıklayın.</summary>
